@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Notas-curso-C#": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
