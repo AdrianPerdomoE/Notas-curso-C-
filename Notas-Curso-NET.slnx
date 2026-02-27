@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/Elementos de la solución/">
+    <File Path="README.md" />
+  </Folder>
+  <Project Path="AppVenta.Aplicacion/AppVenta.Aplicacion.csproj" />
+  <Project Path="AppVenta.dominio/AppVenta.dominio.csproj" />
+  <Project Path="Notas-Curso-NET/Notas-Curso-NET.csproj" />
+</Solution>
