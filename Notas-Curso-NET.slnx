@@ -4,5 +4,7 @@
   </Folder>
   <Project Path="AppVenta.Aplicacion/AppVenta.Aplicacion.csproj" />
   <Project Path="AppVenta.dominio/AppVenta.dominio.csproj" />
+  <Project Path="Appventa.Infraestructura.API/Appventa.Infraestructura.API.csproj" Id="bbe6d6b1-5459-4d66-aaf1-e3a606a9eded" />
+  <Project Path="AppVenta.infraestructura/AppVenta.infraestructura.datos.csproj" Id="8ca77c22-8801-4a73-90fc-741f16914d04" />
   <Project Path="Notas-Curso-NET/Notas-Curso-NET.csproj" />
 </Solution>

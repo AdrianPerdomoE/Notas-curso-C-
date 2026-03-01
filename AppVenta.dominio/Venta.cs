@@ -14,5 +14,7 @@ namespace AppVenta.dominio
         public decimal total { get; set; }
         public decimal impuesto { get; set; }
         public List<VentaDetalle> ventaDetalles { get; set; }
+
+        public bool anulado { get; set; }
     }
 }

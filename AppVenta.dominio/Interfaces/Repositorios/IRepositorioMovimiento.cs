@@ -4,8 +4,8 @@ using System.Text;
 
 namespace AppVenta.dominio.Interfaces.Repositorios
 {
-    public interface IRepositorioMovimiento<TEntidad, TEntidadId> : IAgregar<TEntidad>, IListar<TEntidadId,TEntidadId>, ITransaccion
+    public interface IRepositorioMovimiento<TEntidad, TEntidadId> : IAgregar<TEntidad>, IListar<TEntidad,TEntidadId>, ITransaccion
     {
-        void anular (TEntidad tentidad);
+        void Anular (TEntidadId tentidadId);
     }
 }

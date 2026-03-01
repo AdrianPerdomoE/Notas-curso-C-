@@ -5,7 +5,8 @@ using System.Text;
 
 namespace AppVenta.Aplicacion.Interfaces
 {
-    public interface IServicioMovimiento <TEntidad,TEntidadId> : IAgregar<TEntidad>, IListar<TEntidad,TEntidad>
+    public interface IServicioMovimiento <TEntidad,TEntidadId> : IAgregar<TEntidad>, IListar<TEntidad,TEntidadId>
     {
+        public void Anular(TEntidadId id);
     }
 }

@@ -6,6 +6,6 @@ namespace AppVenta.dominio.Interfaces
 {
     public interface ITransaccion
     {
-        void guardarCambios();
+        void GuardarCambios();
     }
 }

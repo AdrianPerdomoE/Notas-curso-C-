@@ -6,6 +6,6 @@ namespace AppVenta.dominio.Interfaces
 {
     public interface IAgregar<TEntidad>
     {
-        TEntidad agregar(TEntidad tentidad);
+        TEntidad Agregar(TEntidad tentidad);
     }
 }
